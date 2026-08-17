@@ -1,0 +1,4 @@
+# Regras de segurança do projeto
+
+config_secreta.env
+*.log
